@@ -1,0 +1,19 @@
+{
+  "name": "demoreact",
+  "version": "1.0.0",
+  "description": "probando esta tegnologia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrianCortes/DemoReactNative.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrianCortes/DemoReactNative/issues"
+  },
+  "homepage": "https://github.com/BrianCortes/DemoReactNative#readme"
+}
